@@ -7,7 +7,7 @@ prises tout autour de l'objet. Le pipeline combine segmentation d'image, analyse
 2D et vision multi-vues pour produire un maillage surfacique, en implémentant le principe
 classique de l'**enveloppe visuelle** (*visual hull*).
 
-📄 **[Rapport complet (PDF)](<Reconstruction 3D par silhouettes multi-vues.pdf>)** —
+📄 **[Rapport complet (PDF)](<Reconstruction_3D_par_silhouettes_multi-vues.pdf.pdf>)** —
 équations, justification des choix d'implémentation, tableaux de paramètres.
 
 ---
